@@ -1,6 +1,6 @@
 # SlimTrack
 
-The implementation of my graduation project.
+The implementation of my graduation project (awarded as Outstanding Graduation Thesis).
 
 ## Highlights
 
@@ -13,3 +13,4 @@ Our idea is implemented base on the following projects. Thanks for their great c
 - [PySOT](https://github.com/STVIR/pysot)
 - [S-Net](https://github.com/JiahuiYu/slimmable_networks)
 - [DS-Net](https://github.com/changlin31/DS-Net)
+
