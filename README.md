@@ -1,6 +1,6 @@
 # SlimTrack
 
-The implementation of my graduation project (awarded as Outstanding Graduation Thesis).
+The PyTorch implementation of my graduation project (awarded as Outstanding Graduation Thesis).
 
 ## Highlight
 
