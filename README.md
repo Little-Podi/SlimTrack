@@ -10,7 +10,7 @@ The proposed method is inspired by the idea of [Slimmable Neural Networks](https
 
 ## Acknowledgement
 
-:heart::heart::heart:Our idea is implemented base on the following projects. We really appreciate their great code!
+:heart::heart::heart:Our idea is implemented base on the following projects. We really appreciate their wonderful open-source work!
 
 - [PySOT](https://github.com/STVIR/pysot)
 - [S-Net](https://github.com/JiahuiYu/slimmable_networks)
